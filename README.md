@@ -1,5 +1,4 @@
-
-## Hey — I’m Alex 
+## 🐐 Hey — I’m Alex 
 I'm a PhD candidate probing how neural networks think so we can build safer, better-aligned AI.
 
 ### 🔭 What I’m up to

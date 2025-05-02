@@ -2,11 +2,12 @@
 I'm a PhD candidate probing how neural networks think so we can build safer, better-aligned AI.
 
 ### 🔭 What I’m up to
-- **Writing up** my PhD thesis on mechanistic interpretability.  
+- **Writing up** my PhD thesis on _Interpretable Representations in Artificial Neural Networks_.
+- **Research** Doing technical alignement research. See [my scholar page](https://www.semanticscholar.org/author/Alex-F-Spies/144807908) 
 - **Research-engineering intern** at Epic Games — scaling & fine-tuning LLMs for creative tools.  
-- **Side projects**
-  - [AI-Safety-Papers](https://github.com/afspies/ai-safety-papers) — a living reading-list with concise notes.  )
-
+- **Current Side projects**
+  - [AI-Safety-Papers](https://github.com/afspies/ai-safety-papers) — a living reading-list with concise notes.)
+  - 
 ### 🌐 Elsewhere
 [Website](https://afspies.com) | [Twitter/X @afspies](https://twitter.com/afspies) | [LinkedIn](https://linkedin.com/in/afspies) | ✉️ alex [at] afspies (dot) com
 

@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**afspies/afspies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey — I’m Alex 
+I'm a PhD candidate probing how neural networks think so we can build safer, better-aligned AI.
 
-Here are some ideas to get you started:
+### 🔭 What I’m up to
+- **Writing up** my PhD thesis on mechanistic interpretability.  
+- **Research-engineering intern** at Epic Games — scaling & fine-tuning LLMs for creative tools.  
+- **Side projects**
+  - [AI-Safety-Papers](https://github.com/afspies/ai-safety-papers) — a living reading-list with concise notes.  )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Elsewhere
+[Website](https://afspies.com) | [Twitter/X @afspies](https://twitter.com/afspies) | [LinkedIn](https://linkedin.com/in/afspies) | ✉️ alex [at] afspies (dot) com
+

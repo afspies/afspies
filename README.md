@@ -6,7 +6,7 @@ I'm a PhD candidate probing how neural networks think so we can build safer, bet
 - **Doing Research** on technical alignment - see [my scholar page](https://www.semanticscholar.org/author/Alex-F-Spies/144807908).
 - **Working** as a research-engineering intern at Epic Games — scaling & fine-tuning LLMs for creative tools.  
 - **Procrastinating** with Side projects:
-  - [AI-Safety-Papers](https://aisafetypapers.org) — a living reading-list with concise notes.)
+  - [AI-Safety-Papers](https://aisafetypapers.org) — a living reading-list with concise notes.
 
 ### 🌐 Elsewhere
 [Website](https://afspies.com) | [Twitter/X @afspies](https://twitter.com/afspies) | [LinkedIn](https://linkedin.com/in/afspies) | ✉️ alex [at] afspies (dot) com

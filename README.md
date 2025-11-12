@@ -1,8 +1,11 @@
 ## 🐐 Hey — I’m Alex 
-I'm a PhD candidate probing how neural networks think so we can build safer, better-aligned AI.
+Research Engineer @ Epic Games | (Ex-PhD) Mechanistic Interpretability Researcher 
+
+## Hi, I'm Alex 👋
+I just finished my PhD, reverse-engineering neural networks to understand what how they think, so we can try to stop them from thinking _bad things_. Currently shipping production LLM systems alongside research.
 
 ### 🔭 What I’m up to
-- **Writing up** my PhD thesis on _Interpretable Representations in Artificial Neural Networks_.
+- **Working** at Epic Games on Agentic AI (LLMs) to empower creators in _the metaverse_
 - **Doing Research** on technical alignment - see [my scholar page](https://www.semanticscholar.org/author/Alex-F-Spies/144807908).
 - **Working** as a research-engineering intern at Epic Games — scaling & fine-tuning LLMs for creative tools.  
 - **Procrastinating** with Side projects:
